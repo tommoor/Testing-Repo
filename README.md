@@ -1,4 +1,3 @@
 ab
 cd
 oh
-yes
